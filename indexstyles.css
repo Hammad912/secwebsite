@@ -1,0 +1,36 @@
+  body {
+    background-color: #cff6cf;
+    font-family:'Berkshire',cursive;
+  }
+  h1{
+    font-family: 'Sacramento',cursive;
+    text-decoration: underline;
+  }
+  h2{
+    position: relative;
+    padding-left: 40%;
+    text-decoration: underline;
+    font-family: 'Sacramento',cursive;
+      color: #66BFBF;
+  }
+  hr {
+    border-color: #bbb;
+    border-style: dotted none none;
+    border-width: 5px;
+  }
+  img:hover{
+    background-color: black;
+  }
+  .Profile{
+    border-radius: 50%;
+    height: 150px;
+  }
+.End{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+.dead{
+  text-align: center;
+}

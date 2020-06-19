@@ -1,0 +1,19 @@
+  body {
+    background-color: #778899;
+    font-family: Berkshire,cursive;
+  }
+  h1{
+    text-decoration: underline;
+  }
+  hr{
+      border-color: #bbb;
+      border-style: dotted none none;
+      border-width: 5px;
+  }
+  .sfc{
+    width: 25%;
+  }
+.univ{
+  border-radius: 100%;
+  float: left;
+}

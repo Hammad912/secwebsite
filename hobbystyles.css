@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+  }
+  h2{
+    text-decoration: underline;
+  }
+  hr{
+    border-color: white;
+    border-style:dotted none none;
+    border-width:5px;
+    width: 50%;
+  }
